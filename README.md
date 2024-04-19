@@ -1,2 +1,1 @@
-# Delete
-This is a dummy repository
+Just a test with a small change
